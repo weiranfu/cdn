@@ -1,4 +1,4 @@
-# cdn
+# CDN 
 CDN for [jsDelivr](https://www.jsdelivr.com/)
 
 ### Usage
